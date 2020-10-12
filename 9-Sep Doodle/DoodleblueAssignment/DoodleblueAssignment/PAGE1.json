@@ -1,0 +1,16 @@
+{
+  "unorderedStatements": [
+    {
+      "statement": "This is the third sentence",
+      "position": null
+    },
+    {
+      "statement": "This is the second sentence example having more words when compare to first one",
+      "position": null
+    },
+    {
+      "statement": "This is the not first or last sentence example having more words when compare to first one",
+      "position": null
+    }
+  ]
+}
